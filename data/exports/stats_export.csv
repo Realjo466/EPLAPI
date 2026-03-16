@@ -1,0 +1,25 @@
+department,program,level,count,mean,std,min,max,median
+Genie Electrique,License Genie Electrique,L1,800,11.06,2.97,0.3,19.59,11.2
+Genie Electrique,License Genie Electrique,L2,800,10.98,2.94,0.34,18.92,11.06
+Genie Electrique,License Genie Electrique,L3,800,11.08,3.09,0.0,20.0,11.1
+Genie Mecanique,License Genie Mecanique,L1,800,11.14,3.07,1.36,20.0,11.24
+Genie Mecanique,License Genie Mecanique,L2,900,11.0,2.95,0.15,20.0,11.08
+Genie Mecanique,License Genie Mecanique,L3,900,11.06,3.01,0.64,20.0,11.02
+Genie civile,License Genie civile,L1,750,11.07,3.01,1.11,18.79,11.14
+Genie civile,License Genie civile,L2,800,10.95,3.14,2.12,20.0,10.86
+Genie civile,License Genie civile,L3,550,10.86,2.99,2.08,19.71,10.72
+Informatique et Systeme,License Informatique et Systeme,L1,800,10.87,3.08,0.0,20.0,10.86
+Informatique et Systeme,License Informatique et Systeme,L2,800,10.93,3.0,0.0,20.0,10.92
+Informatique et Systeme,License Informatique et Systeme,L3,750,11.16,2.91,1.03,20.0,11.15
+Informatique et Systeme,Master Informatique et Systeme,M1,850,11.23,2.92,0.81,20.0,11.24
+Informatique et Systeme,Master Informatique et Systeme,M2,500,11.2,3.08,0.22,20.0,11.24
+Intelligence Artificiel et Big Data,Master Intelligence Artificiel et Big Data,M1,900,10.93,3.0,1.26,20.0,10.94
+Intelligence Artificiel et Big Data,Master Intelligence Artificiel et Big Data,M2,550,10.94,2.92,0.46,18.79,11.0
+Intelligence Artificielle et Big Data,License Intelligence Artificielle et Big Data,L1,800,11.17,2.82,2.65,20.0,11.03
+Intelligence Artificielle et Big Data,License Intelligence Artificielle et Big Data,L2,800,11.1,2.98,2.06,20.0,11.08
+Intelligence Artificielle et Big Data,License Intelligence Artificielle et Big Data,L3,750,10.95,2.99,0.89,20.0,11.0
+Logistique et Transport,License Logistique et Transport,L1,800,10.96,3.1,3.07,20.0,10.86
+Logistique et Transport,License Logistique et Transport,L2,800,10.78,3.0,2.78,20.0,10.66
+Logistique et Transport,License Logistique et Transport,L3,800,10.87,3.03,0.0,20.0,10.86
+Logistique et Transport,Master Logistique et Transport,M1,800,10.83,2.98,3.49,20.0,10.76
+Logistique et Transport,Master Logistique et Transport,M2,150,11.2,3.07,2.78,20.0,11.4
